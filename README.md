@@ -51,8 +51,7 @@ Atividade 3 concluída.
 </p>
 
 <p><h2> Arquivo de vídeo </h2>
-![video10s](https://user-images.githubusercontent.com/80930924/113496804-ad36eb80-94d3-11eb-81eb-6a697da41f5c.gif)
-
+<video src="videonovo.mp4" width="500px" controls></video>
 
   <p> <h2> Índice </h2> </p>
 
