@@ -52,7 +52,7 @@ Atividade 3 concluída.
 
 <p><h2> Arquivo de vídeo </h2>
 
-<a href="https://user-images.githubusercontent.com/80930924/113496477-49f78a00-94d0-11eb-83c2-92e2b00b9d58.mp4"></a>
+<a href="https://user-images.githubusercontent.com/80930924/113496477-49f78a00-94d0-11eb-83c2-92e2b00b9d58.mp4">Video</a>
 
   <p> <h2> Índice </h2> </p>
 
