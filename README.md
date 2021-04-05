@@ -51,7 +51,7 @@ Atividade 3 concluída.
 </p>
 
 <p><h2> Arquivo de vídeo </h2>
-<video src="videonovo.mp4" width="500px" controls></video>
+<video src="MarcioMatheus/Atividade3/videonovo.mp4" width="500px" controls></video>
 
   <p> <h2> Índice </h2> </p>
 
